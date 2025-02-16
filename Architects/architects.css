@@ -180,7 +180,7 @@ main>section{
 }
 .feature-card{
   width: auto;
-  height: 170px;
+  height: 100px;
   border-radius: 8px;
   box-shadow: 0px 4px 30px 0 rgba(0, 0, 0, 0.06);
   text-align: center;
@@ -201,6 +201,7 @@ main>section{
 
 .feature-img{
   width: 100%;
+  
 }
 
 /* some-facts section style  */
